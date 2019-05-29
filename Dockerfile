@@ -1,6 +1,6 @@
 # AMP Standalone Dockerfile
 
-FROM debian:9.6-slim
+FROM ubuntu:18.04
 
 EXPOSE 8080-8180
 EXPOSE 5678-5688
